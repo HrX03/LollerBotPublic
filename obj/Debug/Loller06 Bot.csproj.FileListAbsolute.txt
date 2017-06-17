@@ -1,0 +1,25 @@
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Loller06 Bot.exe.config
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\obj\Debug\Loller06 Bot.csprojResolveAssemblyReference.cache
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Loller06 Bot.exe
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Loller06 Bot.pdb
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Discord.Net.Commands.dll
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Discord.Net.dll
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Newtonsoft.Json.dll
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Nito.AsyncEx.dll
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\RestSharp.dll
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\WebSocket4Net.dll
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Newtonsoft.Json.xml
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Nito.AsyncEx.xml
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\RestSharp.xml
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\obj\Debug\Loller06 Bot.exe
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\obj\Debug\Loller06 Bot.pdb
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\mem\mem1.jpg
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\mem\mem2.jpg
+c:\users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\mem\mem3.jpg
+C:\Users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\mem\mem6.jpg
+C:\Users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\mem\mem5.jpg
+C:\Users\dnbia\documents\visual studio 2015\Projects\Loller06 Bot\Loller06 Bot\bin\Debug\mem\mem4.jpg
